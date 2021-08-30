@@ -10,7 +10,7 @@
 
 
 * Data Tools: ECMAScript, JavaScript, Jupyter Notebook, Python and MongoDB
-* Software: ES6+, ECMAScript, MongoDB, Python 3.8.3, Visual Studio Code 1.50.0
+* Software: ES6+, ECMAScript, MongoDB, Python 3.7, Visual Studio Code 1.50.0
 
  
 
@@ -43,12 +43,9 @@ The webpage will be updated with the search criteria after pressing "Enter".
 1. **The list element that creates the button is removed, and there are five list elements for filtering in the `index.html` file.**
 
 
-> Image with `JavaScript` & `HTML` Code below.
-
 **Code and Image**
 
-
-                    
+                 
 
 ![htmlcode_filters.PNG](https://github.com/Praveeja-Sasidharan-Suni/UFOs/blob/main/resources/htmlcode_filters.PNG?raw=true)
 
@@ -56,8 +53,6 @@ The webpage will be updated with the search criteria after pressing "Enter".
 
 2. **The event listener is modified to detect changes to each filter in the `app.js` file.**
 
-
-> Image with `JavaScript` & `HTML` Code below.
 
 **Code and Image**
 
@@ -79,8 +74,6 @@ function updateFilters() {
 
 3. ​**The `updateFilters()` function saves the element, value, and the id of the filter that was changed.**
 
-
-> Image with `JavaScript` & `HTML` Code below.
 
 **Code and Image**
 
@@ -105,8 +98,6 @@ function updateFilters() {
 
 4. **The webpage filters the table correctly based on user input.**
 
-
-> Image with `JavaScript` & `HTML` Code below.
 
 **Code and Image**
 
